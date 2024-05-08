@@ -5,4 +5,4 @@ Este proyecto ha sido creado con:
 
 ## 🌍 Sitio web
 
-Puedes revisar la web a través haciendlo clic a continuación [link](https://tiendamuebles-bca.netlify.app/).
+Puedes revisar la web a través del siguiente enlace [link](https://tiendamuebles-bca.netlify.app/).
